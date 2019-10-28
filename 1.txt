@@ -2,8 +2,12 @@ Num1 = 10  # manager
 
 
 
-Num = 200 # manager
+Num4 = 200 # manager
+
 
 
 
 num = 3333
+
+num3 = 300 ###
+
