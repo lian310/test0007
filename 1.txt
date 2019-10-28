@@ -3,3 +3,7 @@ Num1 = 10  # manager
 
 
 Num = 200 # manager
+
+
+
+num3 = 300 ###
